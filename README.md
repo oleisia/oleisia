@@ -14,6 +14,20 @@ my work blends tech, storytelling, and identity — often through the lens of de
 - 🖥 focused on ui/ux, digital marketing, and creative tech
 - 📍 atlanta + online
 
+### 🌼 my hobbies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-🎮%20Gaming%20&%20Esports-FDF1F8?style=flat" />
+  <img src="https://img.shields.io/badge/-🩰%20Dance-F7FCED?style=flat" />
+  <img src="https://img.shields.io/badge/-🧩%20Puzzle%20Solving-EAF5FF?style=flat" />
+  <img src="https://img.shields.io/badge/-🖼️%20Art%20Museums-FCEBF2?style=flat" />
+  <img src="https://img.shields.io/badge/-🎭%20Cosplay-F7EFFB?style=flat" />
+  <img src="https://img.shields.io/badge/-🎧%20Lo-Fi%20Beats-E7F9F3?style=flat" />
+  <img src="https://img.shields.io/badge/-🌸%20Feminist%20Tech-FDF8F0?style=flat" />
+  <img src="https://img.shields.io/badge/-💾%20Storytelling%20&%20Worldbuilding-F7FBE9?style=flat" />
+  <img src="https://img.shields.io/badge/-💐%20Systems%20Thinking-F3EFF9?style=flat" />
+</p>
+
 ---
 
 ### 🛠️ currently working on
@@ -26,16 +40,49 @@ my work blends tech, storytelling, and identity — often through the lens of de
 
 ### 🛠 toolkit
 
+#### 🧠 languages & frameworks
+<p>
+  <img src="https://img.shields.io/badge/-Python-F4EBFF?style=for-the-badge&logo=python&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-C++-E7FAE9?style=for-the-badge&logo=c%2B%2B&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-JavaScript-FFF0F3?style=for-the-badge&logo=javascript&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-HTML/CSS-FAFCEB?style=for-the-badge&logo=html5&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-React-F4EFFA?style=for-the-badge&logo=react&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Node.js-EDF6E5?style=for-the-badge&logo=node.js&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Express.js-F7F9FA?style=for-the-badge&logo=express&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Git-E7F1FB?style=for-the-badge&logo=git&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-E0F3EC?style=for-the-badge&logo=tailwindcss&logoColor=111111" />
+</p>
+
+#### 🎨 design & ux
 <p>
   <img src="https://img.shields.io/badge/-Figma-FEF6FB?style=for-the-badge&logo=figma&logoColor=111111" />
-  <img src="https://img.shields.io/badge/-HTML/CSS-F0F9F1?style=for-the-badge&logo=html5&logoColor=111111" />
-  <img src="https://img.shields.io/badge/-JavaScript-FDF1EC?style=for-the-badge&logo=javascript&logoColor=111111" />
-  <img src="https://img.shields.io/badge/-Python-FAF4EA?style=for-the-badge&logo=python&logoColor=111111" />
-  <img src="https://img.shields.io/badge/-Notion-EDF5F3?style=for-the-badge&logo=notion&logoColor=111111" />
-  <img src="https://img.shields.io/badge/-CapCut-EDE7F6?style=for-the-badge&logo=capcut&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Adobe_PS-FFE9F3?style=for-the-badge&logo=adobephotoshop&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Adobe_AI-E5F8F0?style=for-the-badge&logo=adobeillustrator&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Notion-F3FCF2?style=for-the-badge&logo=notion&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Framer-F9F0F6?style=for-the-badge&logo=framer&logoColor=111111" />
+</p>
+
+#### 📈 marketing & analytics
+<p>
+  <img src="https://img.shields.io/badge/-Google_Analytics-FEFBEF?style=for-the-badge&logo=googleanalytics&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Mailchimp-F4F0E3?style=for-the-badge&logo=mailchimp&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-SEO-FFF9F1?style=for-the-badge&logo=searchengineland&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-A/B_Testing-FCEBF6?style=for-the-badge&logo=testinglibrary&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Excel-F2FFE5?style=for-the-badge&logo=microsoftexcel&logoColor=111111" />
+</p>
+
+#### 🎮 content creation & community
+<p>
+  <img src="https://img.shields.io/badge/-Twitch-B6E3B4?style=for-the-badge&logo=twitch&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-YouTube-FDDDE6?style=for-the-badge&logo=youtube&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-CapCut-FEF6FB?style=for-the-badge&logo=capcut&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Procreate-F4EFF9?style=for-the-badge&logo=procreate&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-OBS_Studio-ECFBF0?style=for-the-badge&logo=obsstudio&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Content_Planning-F6FFF9?style=for-the-badge&logo=googlecalendar&logoColor=111111" />
 </p>
 
 ---
+
 
 ### 🌸 featured projects
 | 🌼 project | ✨ what it is | 🛠 built with |
@@ -56,15 +103,10 @@ my work blends tech, storytelling, and identity — often through the lens of de
   <a href="https://twitch.tv/oleisia">
     <img src="https://img.shields.io/badge/-Twitch-b6e3b4?style=for-the-badge&logo=twitch&logoColor=black" />
   </a>
-  <a href="https://youtube.com/@yourchannel">
+  <a href="https://youtube.com/@oleisia_">
     <img src="https://img.shields.io/badge/-YouTube-fddde6?style=for-the-badge&logo=youtube&logoColor=black" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://oleisia.framer.website">
     <img src="https://img.shields.io/badge/-Portfolio-e4f7e4?style=for-the-badge&logo=notion&logoColor=black" />
   </a>
-</p>
-
----
-<p align="center">
-  🦋 “bloom in your own way” 💾
 </p>
