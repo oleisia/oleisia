@@ -1,7 +1,7 @@
 
 <img src="https://i.pinimg.com/originals/87/9a/0a/879a0a47ae8f306367dfd9c3712daf35.gif" width = 800/>
 
-### welcome <3
+# welcome <3
 
 ---
 
@@ -24,7 +24,7 @@ my work blends tech, storytelling, and identity — often through the lens of de
 
 ---
 
-## 🛠 tools i vibe with
+### 🛠 toolkit
 
 <p>
   <img src="https://img.shields.io/badge/-Figma-FEF6FB?style=for-the-badge&logo=figma&logoColor=111111" />
@@ -47,7 +47,7 @@ my work blends tech, storytelling, and identity — often through the lens of de
 
 ---
 
-## 💌 connect with me
+### 💌 connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/oleisiajohnson">
