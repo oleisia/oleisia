@@ -14,18 +14,17 @@ my work blends tech, storytelling, and identity — often through the lens of de
 - 🖥 focused on ui/ux, digital marketing, and creative tech
 - 📍 atlanta + online
 
-### 🌼 my hobbies
+#### if i'm not working, i'm usually doing one of these things:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-🎮%20Gaming%20&%20Esports-FDF1F8?style=flat" />
-  <img src="https://img.shields.io/badge/-🩰%20Dance-F7FCED?style=flat" />
-  <img src="https://img.shields.io/badge/-🧩%20Puzzle%20Solving-EAF5FF?style=flat" />
-  <img src="https://img.shields.io/badge/-🖼️%20Art%20Museums-FCEBF2?style=flat" />
-  <img src="https://img.shields.io/badge/-🎭%20Cosplay-F7EFFB?style=flat" />
-  <img src="https://img.shields.io/badge/-🎧%20Lo-Fi%20Beats-E7F9F3?style=flat" />
-  <img src="https://img.shields.io/badge/-🌸%20Feminist%20Tech-FDF8F0?style=flat" />
-  <img src="https://img.shields.io/badge/-💾%20Storytelling%20&%20Worldbuilding-F7FBE9?style=flat" />
-  <img src="https://img.shields.io/badge/-💐%20Systems%20Thinking-F3EFF9?style=flat" />
+<p>
+  <img src="https://img.shields.io/badge/-🎮%20Gaming%20&%20Esports-F8BBD0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🩰%20Dance-FFDAC1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🧩%20Puzzle%20Solving-AED2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🖼️%20Art%20Museums-FFF5BA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🎭%20Cosplay-ECC5FB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🎶%20Listening%20to%20Music-FFC7C7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🌍%20Giving%20Back-B6E2D3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-💾%20Storytelling%20&%20Worldbuilding-ECE4DB?style=for-the-badge" />
 </p>
 
 ---
@@ -69,16 +68,6 @@ my work blends tech, storytelling, and identity — often through the lens of de
   <img src="https://img.shields.io/badge/-SEO-FFF9F1?style=for-the-badge&logo=searchengineland&logoColor=111111" />
   <img src="https://img.shields.io/badge/-A/B_Testing-FCEBF6?style=for-the-badge&logo=testinglibrary&logoColor=111111" />
   <img src="https://img.shields.io/badge/-Excel-F2FFE5?style=for-the-badge&logo=microsoftexcel&logoColor=111111" />
-</p>
-
-#### 🎮 content creation & community
-<p>
-  <img src="https://img.shields.io/badge/-Twitch-B6E3B4?style=for-the-badge&logo=twitch&logoColor=111111" />
-  <img src="https://img.shields.io/badge/-YouTube-FDDDE6?style=for-the-badge&logo=youtube&logoColor=111111" />
-  <img src="https://img.shields.io/badge/-CapCut-FEF6FB?style=for-the-badge&logo=capcut&logoColor=111111" />
-  <img src="https://img.shields.io/badge/-Procreate-F4EFF9?style=for-the-badge&logo=procreate&logoColor=111111" />
-  <img src="https://img.shields.io/badge/-OBS_Studio-ECFBF0?style=for-the-badge&logo=obsstudio&logoColor=111111" />
-  <img src="https://img.shields.io/badge/-Content_Planning-F6FFF9?style=for-the-badge&logo=googlecalendar&logoColor=111111" />
 </p>
 
 ---
