@@ -60,7 +60,7 @@ i use code, content, and design to explore identity, joy, and bloom-worthy tech.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-pink?style=flat&logo=notion)](https://oleisia.framer.website)  
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://youtube.com/@yourchannel)
 
-[---](https://66.media.tumblr.com/c3835e4baca6a28f0ed2b719173a10ac/tumblr_mm4r8mxsBy1rfjowdo1_500.gif)
+[<img src="https://66.media.tumblr.com/c3835e4baca6a28f0ed2b719173a10ac/tumblr_mm4r8mxsBy1rfjowdo1_500.gif" width="400" alt="star pixel divider" />()
 
 <p align="center">
   🦋 “bloom in your own way” 💾
