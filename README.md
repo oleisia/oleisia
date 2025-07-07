@@ -1,10 +1,10 @@
-<p align="center">
+<p align="left">
   <img src="https://media.tenor.com/o1OTUEEWc1gAAAAi/disc-spacer.gif" width="220" alt="cute minimal divider" />
 </p>
 
-<h1 align="center">hi, i’m oleisia</h1>
+<h1 align="left">hi, i’m oleisia</h1>
 
-<p align="center">🌿 cs @ spelman · designer · gamer girl dev</p>
+<p align="left">🌿 cs @ spelman · designer · gamer girl dev</p>
 
 ---
 
