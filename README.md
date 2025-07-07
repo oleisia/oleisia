@@ -1,5 +1,5 @@
-<p align="center">🍵⋆｡°🍡°⋆. ࿔*:･</p>
-<p align="center">hi i’m oleisia!</p>
+### 🍵⋆｡°🍡°⋆. ࿔*:･
+### hi i’m oleisia!
 
 <p align="center">
   ✨ cs @ spelman • digital designer • gamer girl dev 🌱
