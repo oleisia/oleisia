@@ -1,5 +1,6 @@
-<h1 align="center">🌸 hi, i’m oleisia </h1>
 <p align="center">🍵⋆｡°🍡°⋆. ࿔*:･</p>
+<p align="center">hi i’m oleisia!</p>
+
 <p align="center">
   ✨ cs @ spelman • digital designer • gamer girl dev 🌱
 </p>
