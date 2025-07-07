@@ -1,4 +1,11 @@
-<a href="https://www.glitter-graphics.com"><img src="http://dl9.glitter-graphics.net/pub/3285/3285639plh3r7tdbj.gif" width=198 height=20 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank>glitter-graphics.com</a>
+<p align="center">
+  <img src="https://media.tenor.com/fmWLvjyybIUAAAAi/disc-spacer-divider.gif" width="220" alt="cute minimal divider" />
+</p>
+
+<h1 align="center">hi, i’m oleisia</h1>
+
+<p align="center">🌿 cs @ spelman · designer · gamer girl dev</p>
+
 ---
 
 ### 🌺 about me
