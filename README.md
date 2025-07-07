@@ -1,9 +1,15 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFqaXZ4M2xhZHBmbjFqMGNpOW02ODhlb2hmY2FoNmRub3diM2VxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="240" alt="sparkle gif" />
-### hi i’m oleisia!
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFqaXZ4M2xhZHBmbjFqMGNpOW02ODhlb2hmY2FoNmRub3diM2VxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="240" />
+</p>
+
+<h1 align="center">hi i’m oleisia!</h1>
+
+<p align="center">🍵⋆｡°🍡°⋆. ࿔*:･</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oleisiajohnson&style=flat-square&color=lightpink" alt="profile views"/>
+  <img src="https://66.media.tumblr.com/5b9686cf38e0e859699e6753c77f4609/tumblr_ml5gdg48mX1rfjowdo1_500.gif" width="400" alt="floral pixel divider" />
 </p>
+
 
 ---
 
