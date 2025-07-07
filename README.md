@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/fmWLvjyybIUAAAAi/disc-spacer-divider.gif" width="220" alt="cute minimal divider" />
+  <img src="https://media.tenor.com/o1OTUEEWc1gAAAAi/disc-spacer.gif" width="220" alt="cute minimal divider" />
 </p>
 
 <h1 align="center">hi, i’m oleisia</h1>
