@@ -1,40 +1,38 @@
-<p align="left">
-  <img src="https://64.media.tumblr.com/4bd7d35b5f93e33b2a2e8687d01d3d4d/f9c66165dd51495b-7a/s2048x3072/67a28eef8e39961260d2ba262d8a10160da02fb4.gifv" width="220" alt="cute minimal divider" />
-</p>
 
-<h1 align="left">hi, i’m oleisia</h1>
+<img src="https://i.pinimg.com/originals/87/9a/0a/879a0a47ae8f306367dfd9c3712daf35.gif" width = 800/>
 
-<p align="left">🌿 cs @ spelman · designer · gamer girl dev</p>
+### welcome <3
 
 ---
 
-### 🌺 about me
-i’m a curious creator with a soft-coded aesthetic and a sharp eye for systems.  
-i use code, content, and design to explore identity, joy, and bloom-worthy tech.
+### 🌸🌿 about me
+i’m oleisia (she/her), a creative technologist and content creator currently studying computer science at spelman.  
+my work blends tech, storytelling, and identity — often through the lens of design, gaming, and cultural joy.
 
-- 🎮 founding member of [spelman esports](#)
+- 🎮 president of [spelman esports](#)
 - 🌸 building tools & experiences for black femme gamers
-- 🖥 focused on ui/ux, digital strategy, and creative tech
+- 🖥 focused on ui/ux, digital marketing, and creative tech
 - 📍 atlanta + online
 
 ---
 
 ### 🛠️ currently working on
 - rebranding my online platforms (logos, overlays, emotes 💅🏾)
-- designing my portfolio site with notion + super
+- designing my portfolio site with framer
 - studying dsa & doing a digital marketing internship
-- creating content that blends gaming, design, and identity
+- creating content that feels beautiful *and* intentional
 
 ---
 
-### 🧰 tech & tools
-<p align="left">
-  <img src="https://img.shields.io/badge/-Figma-faf4ff?style=for-the-badge&logo=figma&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-fceff9?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML/CSS-fdf6f6?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JavaScript-eceaff?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Notion-e3fcec?style=for-the-badge&logo=notion&logoColor=black" />
-  <img src="https://img.shields.io/badge/-CapCut-f0f5ff?style=for-the-badge&logo=capcut&logoColor=black" />
+## 🛠 tools i vibe with
+
+<p>
+  <img src="https://img.shields.io/badge/-Figma-FEF6FB?style=for-the-badge&logo=figma&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-HTML/CSS-F0F9F1?style=for-the-badge&logo=html5&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-JavaScript-FDF1EC?style=for-the-badge&logo=javascript&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Python-FAF4EA?style=for-the-badge&logo=python&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-Notion-EDF5F3?style=for-the-badge&logo=notion&logoColor=111111" />
+  <img src="https://img.shields.io/badge/-CapCut-EDE7F6?style=for-the-badge&logo=capcut&logoColor=111111" />
 </p>
 
 ---
@@ -49,14 +47,24 @@ i use code, content, and design to explore identity, joy, and bloom-worthy tech.
 
 ---
 
-### 🌱 connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-green?style=flat&logo=linkedin)](https://linkedin.com/in/oleisiajohnson)  
-[![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat&logo=twitch)](https://twitch.tv/oleisia)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-pink?style=flat&logo=notion)](https://oleisia.framer.website)  
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://youtube.com/@yourchannel)
+## 💌 connect with me
 
-[<img src="https://66.media.tumblr.com/c3835e4baca6a28f0ed2b719173a10ac/tumblr_mm4r8mxsBy1rfjowdo1_500.gif" width="400" alt="star pixel divider" />()
+<p align="left">
+  <a href="https://linkedin.com/in/oleisiajohnson">
+    <img src="https://img.shields.io/badge/-LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="https://twitch.tv/oleisia">
+    <img src="https://img.shields.io/badge/-Twitch-b6e3b4?style=for-the-badge&logo=twitch&logoColor=black" />
+  </a>
+  <a href="https://youtube.com/@yourchannel">
+    <img src="https://img.shields.io/badge/-YouTube-fddde6?style=for-the-badge&logo=youtube&logoColor=black" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/-Portfolio-e4f7e4?style=for-the-badge&logo=notion&logoColor=black" />
+  </a>
+</p>
 
+---
 <p align="center">
   🦋 “bloom in your own way” 💾
 </p>
