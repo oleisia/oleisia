@@ -1,5 +1,5 @@
+### hi i’m oleisia! 👋🏾
 ### 🍵⋆｡°🍡°⋆. ࿔*:･
-### hi i’m oleisia!
 
 <p align="center">
   ✨ cs @ spelman • digital designer • gamer girl dev 🌱
@@ -45,9 +45,9 @@ i use code, content, and design to explore identity, joy, and bloom-worthy tech.
 ### 🌸 featured projects
 | 🌼 project | ✨ what it is | 🛠 built with |
 |-----------|----------------|----------------|
-| [Digital Bloom](#) | portfolio site that reflects my brand, built on notion | figma, super.so |
+| [Digital Bloom](#) | portfolio site that reflects my brand, built on notion | figma, framer |
 | [Esports Hub](#) | central hub for spelman esports | tailwind, html |
-| [Caturtle Emotes](#) | twitch emotes for my vtuber stream pet! | procreate, capcut |
+| [Caturtle Emotes](#) | twitch emotes for my vtuber stream pet! | ibis paint, capcut |
 | [SoftCode Kit](#) | a brand + ui starter pack for femme-coded devs | figma, css |
 
 ---
@@ -55,7 +55,7 @@ i use code, content, and design to explore identity, joy, and bloom-worthy tech.
 ### 🌱 connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-green?style=flat&logo=linkedin)](https://linkedin.com/in/oleisiajohnson)  
 [![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat&logo=twitch)](https://twitch.tv/oleisia)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-pink?style=flat&logo=notion)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-pink?style=flat&logo=notion)](https://oleisia.framer.website)  
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://youtube.com/@yourchannel)
 
 ---
