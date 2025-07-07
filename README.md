@@ -1,5 +1,5 @@
 <h1 align="center">🌸 hi, i’m oleisia </h1>
-<h1 align="center">🎧๋࣭ ⭑🫧𖦹₊ ⊹⋆𓂃𓈒</h1>
+<p align="center">🍵⋆｡°🍡°⋆. ࿔*:･</p>
 <p align="center">
   ✨ cs @ spelman • digital designer • gamer girl dev 🌱
 </p>
