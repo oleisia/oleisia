@@ -5,6 +5,8 @@
   ✨ cs @ spelman • digital designer • gamer girl dev 🌱
 </p>
 
+<img src="https://64.media.tumblr.com/4a2f087a78042abce7d3d4140df63ae0/tumblr_inline_pl1n6vGeYv1qjju2c_500.gif" width="280" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oleisiajohnson&style=flat-square&color=lightpink" alt="profile views"/>
 </p>
