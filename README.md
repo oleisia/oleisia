@@ -72,17 +72,6 @@ my work blends tech, storytelling, and identity — often through the lens of de
 
 ---
 
-
-### 🌸 featured projects
-| 🌼 project | ✨ what it is | 🛠 built with |
-|-----------|----------------|----------------|
-| [Digital Bloom](#) | portfolio site that reflects my brand, built on notion | figma, framer |
-| [Esports Hub](#) | central hub for spelman esports | tailwind, html |
-| [Caturtle Emotes](#) | twitch emotes for my vtuber stream pet! | ibis paint, capcut |
-| [SoftCode Kit](#) | a brand + ui starter pack for femme-coded devs | figma, css |
-
----
-
 ### 💌 connect with me
 
 <p align="left">
