@@ -6,11 +6,11 @@
 ---
 
 ### 🌸🌿 about me
-i’m oleisia (she/her), a creative technologist and content creator currently studying computer science at spelman.  
+i’m oleisia (she/her), a creative technologist and gamer currently studying computer science at spelman.  
 my work blends tech, storytelling, and identity — often through the lens of design, gaming, and cultural joy.
 
 - 🎮 president of [spelman esports](#)
-- 🌸 building tools & experiences for black femme gamers
+- 🌸 building tools & experiences for gamers
 - 🖥 focused on ui/ux, digital marketing, and creative tech
 - 📍 atlanta + online
 
